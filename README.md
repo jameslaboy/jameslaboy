@@ -6,7 +6,8 @@
   - [osTicket: Prerequisites and Installation](https://github.com/jameslaboy/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/jameslaboy/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jameslaboy/ticket-lifecycle)
-
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jameslaboy/configure-ad)
 
 <h2>🤳Connect with me:</h2>
 
